@@ -1,0 +1,11 @@
+{
+  "name": "tech-blog-14",
+  "version": "1.0.0",
+  "description": "MVC-Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emma Gollan",
+  "license": "ISC"
+}
